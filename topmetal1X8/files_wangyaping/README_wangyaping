@@ -1,0 +1,20 @@
+
+
+Oct 31
+
+我写了一个简单的code分析了曙光昨天取的数据（只测试了out0.pd1和out1.pd1两个数据），计算了8个芯片各个pixel的消隐电平（pedestal）和RMS噪音，见如下链接：
+
+http://www4.rcf.bnl.gov/~ypwang/PLAC/topMetal1X8/
+
+（1）8个芯片各自5184个pixel的pedestal和RMS值可参见txt文件：http://www4.rcf.bnl.gov/~ypwang/PLAC/topMetal1X8/pedNoise_topMetal1X8_0.txt
+
+其中格式为： 芯片编号（0-7）   pixel通道编号（0-5183）   计算出的pedestal均值     计算出的pedestal的RMS
+
+
+（2）相应的一些QA直方图见pdf文件。各个pixel通道（共8*5184）的ADC直方图可在.root文件里找到。
+
+（3）分析脚本见：http://www4.rcf.bnl.gov/~ypwang/PLAC/topMetal1X8/pedNoiseCalib.C 
+
+祝好。
+王亚平
+

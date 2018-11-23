@@ -1,0 +1,12 @@
+
+Processing ../topmetal1X8/pd3_analysis.cpp++("../2016-3-25-data/runData/placData3_beam_135.pd3",0,14)...
+iframe:124
+iframe:165
+iframe:208
+centerMean: 2693.18
+centerRMS: 358.154
+thetaMean: -0.00645228
+thetaRMS: 0.0973798
+deltaEMean: 1.69354e-05
+deltaERMS: 0.0174983
+(int)0

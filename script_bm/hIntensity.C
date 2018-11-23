@@ -1,0 +1,76 @@
+{
+//========= Macro generated from object: hIntensity/Intensity Uncertainty
+//========= by ROOT version5.34/34
+   
+   TH1D *hIntensity = new TH1D("hIntensity","Intensity Uncertainty",100,-0.1,0.1);
+   hIntensity->SetBinContent(17,2);
+   hIntensity->SetBinContent(21,2);
+   hIntensity->SetBinContent(25,1);
+   hIntensity->SetBinContent(28,3);
+   hIntensity->SetBinContent(29,2);
+   hIntensity->SetBinContent(30,1);
+   hIntensity->SetBinContent(31,4);
+   hIntensity->SetBinContent(32,6);
+   hIntensity->SetBinContent(33,6);
+   hIntensity->SetBinContent(34,6);
+   hIntensity->SetBinContent(35,14);
+   hIntensity->SetBinContent(36,13);
+   hIntensity->SetBinContent(37,4);
+   hIntensity->SetBinContent(38,12);
+   hIntensity->SetBinContent(39,18);
+   hIntensity->SetBinContent(40,20);
+   hIntensity->SetBinContent(41,20);
+   hIntensity->SetBinContent(42,23);
+   hIntensity->SetBinContent(43,24);
+   hIntensity->SetBinContent(44,22);
+   hIntensity->SetBinContent(45,29);
+   hIntensity->SetBinContent(46,29);
+   hIntensity->SetBinContent(47,25);
+   hIntensity->SetBinContent(48,21);
+   hIntensity->SetBinContent(49,46);
+   hIntensity->SetBinContent(50,31);
+   hIntensity->SetBinContent(51,25);
+   hIntensity->SetBinContent(52,40);
+   hIntensity->SetBinContent(53,33);
+   hIntensity->SetBinContent(54,30);
+   hIntensity->SetBinContent(55,41);
+   hIntensity->SetBinContent(56,30);
+   hIntensity->SetBinContent(57,32);
+   hIntensity->SetBinContent(58,22);
+   hIntensity->SetBinContent(59,20);
+   hIntensity->SetBinContent(60,27);
+   hIntensity->SetBinContent(61,23);
+   hIntensity->SetBinContent(62,20);
+   hIntensity->SetBinContent(63,6);
+   hIntensity->SetBinContent(64,8);
+   hIntensity->SetBinContent(65,8);
+   hIntensity->SetBinContent(66,13);
+   hIntensity->SetBinContent(67,11);
+   hIntensity->SetBinContent(68,10);
+   hIntensity->SetBinContent(69,4);
+   hIntensity->SetBinContent(70,3);
+   hIntensity->SetBinContent(71,6);
+   hIntensity->SetBinContent(72,2);
+   hIntensity->SetBinContent(73,3);
+   hIntensity->SetBinContent(77,3);
+   hIntensity->SetBinContent(78,1);
+   hIntensity->SetBinContent(79,2);
+   hIntensity->SetBinContent(84,1);
+   hIntensity->SetEntries(808);
+
+   ci = TColor::GetColor("#000099");
+   hIntensity->SetLineColor(ci);
+   hIntensity->GetXaxis()->SetLabelFont(42);
+   hIntensity->GetXaxis()->SetLabelSize(0.035);
+   hIntensity->GetXaxis()->SetTitleSize(0.035);
+   hIntensity->GetXaxis()->SetTitleFont(42);
+   hIntensity->GetYaxis()->SetLabelFont(42);
+   hIntensity->GetYaxis()->SetLabelSize(0.035);
+   hIntensity->GetYaxis()->SetTitleSize(0.035);
+   hIntensity->GetYaxis()->SetTitleFont(42);
+   hIntensity->GetZaxis()->SetLabelFont(42);
+   hIntensity->GetZaxis()->SetLabelSize(0.035);
+   hIntensity->GetZaxis()->SetTitleSize(0.035);
+   hIntensity->GetZaxis()->SetTitleFont(42);
+   hIntensity->Draw("");
+}

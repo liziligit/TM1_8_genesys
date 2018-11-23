@@ -1,0 +1,9 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="245" startPos="0" endPos="0" selMode="0" lang="Shell" encoding="-1" filename="C:\Users\lizil\Desktop\TM1_8\gui\test.sh" backupFilePath="" originalFileLastModifTimestamp="1468198752" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="0" mapWrapIndentMode="-1" mapIsWrap="no" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="525" startPos="0" endPos="0" selMode="0" lang="C" encoding="-1" filename="C:\Users\lizil\Desktop\TM1_8\daq\debugPd2.c" backupFilePath="" originalFileLastModifTimestamp="1467967262" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="38" mapNbLine="38" mapHigherPos="-1" mapWidth="281" mapHeight="152" mapKByteInDoc="2" mapWrapIndentMode="1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>

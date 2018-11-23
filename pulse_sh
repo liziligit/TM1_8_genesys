@@ -1,0 +1,9 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="1">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="287" startPos="0" endPos="0" selMode="0" lang="Shell" encoding="-1" filename="C:\Users\lizil\Desktop\TM1_8\gui\pulse.sh" backupFilePath="" originalFileLastModifTimestamp="1468159544" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="38" mapNbLine="38" mapHigherPos="-1" mapWidth="285" mapHeight="152" mapKByteInDoc="0" mapWrapIndentMode="1" mapIsWrap="no" />
+            <File firstVisibleLine="27" xOffset="0" scrollWidth="602" startPos="952" endPos="952" selMode="0" lang="C++" encoding="-1" filename="C:\Users\lizil\Desktop\TM1_8\debug\pd1Pulse.cpp" backupFilePath="" originalFileLastModifTimestamp="1468158788" mapFirstVisibleDisplayLine="0" mapFirstVisibleDocLine="0" mapLastVisibleDocLine="38" mapNbLine="38" mapHigherPos="-1" mapWidth="281" mapHeight="152" mapKByteInDoc="0" mapWrapIndentMode="1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
